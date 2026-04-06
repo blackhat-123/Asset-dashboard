@@ -1,0 +1,18 @@
+[
+  {
+    "id": "7a7941f2-8f46-452a-bc54-f26b73ad7beb",
+    "title": "Endpoint Audit",
+    "owner": "IT Operations",
+    "status": "Open",
+    "details": "Review all assigned laptops and confirm operating owner records.",
+    "updated_at": "2026-04-05T12:24:40.893279"
+  },
+  {
+    "id": "c4be6b80-ff3c-4b62-bf60-cde5619bd201",
+    "title": "Access Review",
+    "owner": "Admin",
+    "status": "In Progress",
+    "details": "Verify employee access against currently active laptop assignments.",
+    "updated_at": "2026-04-05T12:24:40.893326"
+  }
+]
